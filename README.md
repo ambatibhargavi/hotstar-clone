@@ -2,7 +2,6 @@
 
 Ever watched a series and suddenly felt the urge to build something? That’s how this project was born! While watching *Criminal Justice*, I had the idea of recreating a Hotstar-like streaming UI — and then decided to take it further by containerizing it with Docker.
 ![image](https://github.com/user-attachments/assets/88b6affc-fd5e-4ed4-bd5a-8a8d640c1cbf)
-![83F5557B-BB83-4F9A-8E86-48A9E8E73995](https://github.com/user-attachments/assets/072927dc-35d2-44a6-8bc2-d8e1e0cb60a9)
 
 
 This repository contains a full frontend app built with **React + TypeScript + Vite**, served using **Nginx** in a **Docker** container.
