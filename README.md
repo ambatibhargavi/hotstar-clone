@@ -19,7 +19,7 @@ This repository contains a full frontend app built with **React + TypeScript + V
 
 ## 📸 Demo
 
-👉 Live Demo: [https://admirable-elf-b95b1e.netlify.app/](https://admirable-elf-b95b1e.netlify.app/)
+👉 Live Demo: [https://hotstar-clone-blond.vercel.app/](https://hotstar-clone-blond.vercel.app/)
 
 ---
 
