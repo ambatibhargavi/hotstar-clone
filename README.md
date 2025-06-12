@@ -1,7 +1,7 @@
 # 🎬 Hotstar Clone – Inspired by *Criminal Justice* | Dockerized with Vite + Nginx
 
 Ever watched a series and suddenly felt the urge to build something? That’s how this project was born! While watching *Criminal Justice*, I had the idea of recreating a Hotstar-like streaming UI — and then decided to take it further by containerizing it with Docker.
-![image](https://github.com/user-attachments/assets/88b6affc-fd5e-4ed4-bd5a-8a8d640c1cbf)
+![image](https://github.com/user-attachments/assets/49b1af54-6ffc-4330-86ae-60f7721425fa)
 
 
 This repository contains a full frontend app built with **React + TypeScript + Vite**, served using **Nginx** in a **Docker** container.
